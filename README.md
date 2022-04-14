@@ -10,3 +10,5 @@
 ## Getting results
 - In order to get the results for all countries open your browser at [localhost:8081/all](http://localhost:8081/all)
 - In order to get the results for an specific continent open your browser at localhost:8081/{continent} ex: [localhost:8081/europe](http://localhost:8081/europe)
+
+___Note*__: There are no fallbacks, doc's or testing._
